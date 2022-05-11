@@ -9,3 +9,5 @@ Dagger Hilt
 Jetpack Compose, Navigation
 Retorfit
 Coroutines and Flow
+
+![](https://media.giphy.com/media/UeI1D7XMUfT2qRvFe5/giphy.gif)
