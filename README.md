@@ -1,9 +1,9 @@
 # Cryptocurrency
 App for getting the famous Cryptocurrency!
 
-Use API : https://api.coinpaprika.com/
+Used API : https://api.coinpaprika.com/
 
-Use:
+Stack:
 MVVM,
 Dagger Hilt,
 Jetpack Compose Navigation,
